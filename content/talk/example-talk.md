@@ -1,14 +1,14 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
+title = "Quantifying Online Text Reviews"
 time_start = 2030-06-01T13:00:00
 time_end = 2030-06-01T15:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
+event = "2nd Data Science Symposium"
 event_url = "https://example.org"
-location = "London, United Kingdom"
+location = "University of Malaya, Kuala Lumpur, Malaysia"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -17,7 +17,7 @@ selected = false
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename of your project file in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["deep-learning.md"]
+projects = ["text-review.md"]
 
 # Links (optional).
 url_pdf = ""

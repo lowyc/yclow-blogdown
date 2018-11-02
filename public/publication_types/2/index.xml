@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Yeh-Ching Low</title>
-    <link>/publication_types/2/</link>
+    <link>http://yehchinglow.netlify.com/publication_types/2/</link>
     <description>Recent content in 2 on Yeh-Ching Low</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yehchinglow.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Generalized Sichel Distribution and Associated Inference</title>
-      <link>/publication/generalized-sichel-associated-inference/</link>
+      <link>http://yehchinglow.netlify.com/publication/generalized-sichel-associated-inference/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>/publication/generalized-sichel-associated-inference/</guid>
+      <guid>http://yehchinglow.netlify.com/publication/generalized-sichel-associated-inference/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Statistical Modeling for Review Ratings Data.</title>
-      <link>/publication/statistical-modeling-review-ratings/</link>
+      <link>http://yehchinglow.netlify.com/publication/statistical-modeling-review-ratings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>/publication/statistical-modeling-review-ratings/</guid>
+      <guid>http://yehchinglow.netlify.com/publication/statistical-modeling-review-ratings/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
