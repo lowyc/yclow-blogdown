@@ -15,8 +15,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
 I am or have taught the following courses:
 
 - Introduction to Statistics (Undergraduate)
