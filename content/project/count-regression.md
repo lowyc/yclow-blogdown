@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["count-regression", "statistical-inference", "Bayesian-inference", "Monte-Carlo-methods"]
+tags = ["count-distributions", "statistical-inference", "Bayesian-inference", "Monte-Carlo-methods"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
