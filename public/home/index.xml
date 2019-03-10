@@ -32,11 +32,11 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>http://yehchinglow.netlify.com/home/publications_selected/</link>
+      <title>Contact</title>
+      <link>http://yehchinglow.netlify.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>http://yehchinglow.netlify.com/home/publications_selected/</guid>
+      <guid>http://yehchinglow.netlify.com/home/contact/</guid>
       <description></description>
     </item>
     
@@ -46,6 +46,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>http://yehchinglow.netlify.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://yehchinglow.netlify.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>http://yehchinglow.netlify.com/home/publications_selected/</guid>
       <description></description>
     </item>
     
@@ -82,11 +91,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>http://yehchinglow.netlify.com/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD I am or have taught the following courses:
- Introduction to Statistics (Undergraduate) Probability and Statistics (Undergraduate) Applied Statistics (Undergraduate) Discrete Mathematics for Computing (Undergraduate) Calculus for Computing (Undergraduate) I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science
- CS102: An intro to computer science</description>
+      <description>I am or have taught the following courses:
+ Introduction to Statistics (Undergraduate) Probability and Statistics (Undergraduate) Applied Statistics (Undergraduate) Discrete Mathematics for Computing (Undergraduate) Calculus for Computing (Undergraduate)  </description>
     </item>
     
     <item>
@@ -99,12 +105,21 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title></title>
       <link>http://yehchinglow.netlify.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yehchinglow.netlify.com/home/contact/</guid>
-      <description></description>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://yehchinglow.netlify.com/home/publications_selected/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yehchinglow.netlify.com/home/publications_selected/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
