@@ -10,7 +10,7 @@ title = "Yeh-Ching Low"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -51,7 +51,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Yeh-Ching Low"
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Sunway University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "yehchingl@sunway.edu.my"
   address = "Department of Computing and Information Systems, School of Science and Technology, Sunway University"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
