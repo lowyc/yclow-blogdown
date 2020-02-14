@@ -3,7 +3,7 @@ title = "Count Distribution for Generalized Weibull Duration with Applications"
 date = 2015-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Seng-Huat Ong", "Atanu Biswas", "Shelton Peiris", "Yeh-Ching Low"]
+authors = ["SH Ong", "A Biswas", "S Peiris", "YC Low"]
 
 # Publication type.
 # Legend:

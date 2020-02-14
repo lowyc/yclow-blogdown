@@ -3,7 +3,7 @@ title = "The non-central negative binomial distribution: Further properties and 
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Seng-Huat Ong", "Kian-Kok Toh", "Yeh-Ching Low"]
+authors = ["SH Ong", "KK Toh", "YC Low"]
 
 # Publication type.
 # Legend:

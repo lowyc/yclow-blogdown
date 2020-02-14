@@ -3,7 +3,7 @@ title = "On Kempton's Generalization of the Negative Binomial Distribution"
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Seng-Huat Ong","Yeh-Ching Low"]
+authors = ["SH Ong","YC Low"]
 
 # Publication type.
 # Legend:
