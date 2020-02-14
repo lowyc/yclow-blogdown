@@ -10,7 +10,7 @@ title = "Yeh-Ching Low"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Yeh-Ching Low"
-  role = "Lecturer"
+  role = "Senior Lecturer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -65,7 +65,7 @@ enableGitInfo = false
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "yehchingl@sunway.edu.my"
   address = "Department of Computing and Information Systems, School of Science and Technology, Sunway University"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "Email for appointment"
   phone = "+(60)3 7491 8622"
   skype = "yehchingl"
   telegram = ""
