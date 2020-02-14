@@ -1,9 +1,9 @@
 +++
-title = "On Kempton's Generalization of the Negative Binomial Distribution"
+title = "The non-central negative binomial distribution: Further properties and applications"
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Seng-Huat Ong","Yeh-Ching Low"]
+authors = ["Seng-Huat Ong", "Kian-Kok Toh", "Yeh-Ching Low"]
 
 # Publication type.
 # Legend:
@@ -17,8 +17,8 @@ authors = ["Seng-Huat Ong","Yeh-Ching Low"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Malaysian Journal of Science*"
-publication_short = "In *MJS*"
+publication = "In *Communications in Statistics-Theory and Methods*"
+publication_short = "In *Commun. Statist. - Theor. Methods*"
 
 # Abstract and optional shortened version.
 abstract = " "
